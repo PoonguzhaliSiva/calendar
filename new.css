@@ -1,0 +1,10 @@
+.dotColor{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    border: 2px solid;
+    border-radius: 50%;
+    color:orange;
+    background-color:orange;
+    border-color:orange;
+  }
